@@ -1,3 +1,7 @@
+# ESTAS SON LAS CORRECCIONES DEL PRIMER PARCIAL Y MEJORAS DE ALGUNAS FUNCIONES
+#TODO POR RAUL ORTIZ
+
+
 class Nodo:
     def __init__(self,M,D):
         self.M = M #Cantidad de hijos
